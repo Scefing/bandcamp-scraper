@@ -9,4 +9,4 @@ python /path/to/script
 
 For the first prompt, paste in the Bandcamp release page.
 
-For the second, type a path for your CSV. You'll need to make sure to end it with .csv
+For the second, type a path for your CSV. You'll need to make sure to end it with .csv, unless you go with the default.
